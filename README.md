@@ -1,5 +1,6 @@
 #Projenin Ekran Görüntüsü;
 ---
+[DEMO](https://json-challenge-bootcamp-patika.netlify.app/)
 ![Ek Açıklama 2022-09-13 202713](https://user-images.githubusercontent.com/76450122/189971223-6ef91f88-7974-42bf-830c-35ea8095e3b7.jpg)
 
 
